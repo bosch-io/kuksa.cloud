@@ -8,6 +8,3 @@ keywords:
 home: https://www.eclipse.org/kuksa/
 sources:
   - https://github.com/eclipse/kuksa.cloud
-maintainers:
-  - name: Volker Suschke
-    email: volker.suschke@bosch-si.com
